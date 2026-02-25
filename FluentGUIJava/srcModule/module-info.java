@@ -1,3 +1,3 @@
-module FluentGuiJava {
+module FluentGUIJava {
 
 }
